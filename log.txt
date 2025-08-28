@@ -1,5 +1,5 @@
 gomel
 minsk
 brest
-moskva
-paris
+vitebsk
+grodno
